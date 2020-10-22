@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HolographicUnlit_Mat
+  m_Name: HolographicLogo_Mat
   m_Shader: {fileID: -6465566751694194690, guid: 1cbf41daa1f90644ba31b8ad42e91507,
     type: 3}
   m_ShaderKeywords: 
